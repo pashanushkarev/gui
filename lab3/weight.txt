@@ -1,0 +1,15 @@
+0 inf inf inf inf inf inf 157 inf inf inf inf inf inf 157 
+inf 0 137 inf inf inf inf inf 168 inf inf inf inf inf inf
+inf 137 0 161 inf inf inf inf inf inf 196 inf inf inf inf 
+inf inf 161 0 inf inf inf inf inf inf 150 inf inf inf inf
+inf inf inf inf 0 121 inf inf inf inf 42 inf inf inf inf 
+inf inf inf inf 121 0 41 inf inf inf 110 inf inf inf 184
+inf inf inf inf inf 41 0 131 inf inf inf inf inf inf inf 
+157 inf inf inf inf inf 131 0 inf inf inf inf inf inf inf
+inf 168 inf inf inf inf inf inf 0 121 inf inf inf inf inf
+inf inf inf inf inf inf inf inf 121 0 132 inf inf inf inf
+inf inf 196 150 42 110 inf inf inf 132 0 inf 171 inf inf
+inf inf inf inf inf inf inf inf inf inf inf 0 135 inf inf
+inf inf inf inf inf inf inf inf inf inf 171 135 0 71 inf
+inf inf inf inf inf inf inf inf inf inf inf inf 71 0 77
+157 inf inf inf inf 184 inf inf inf inf inf inf inf 77 0
