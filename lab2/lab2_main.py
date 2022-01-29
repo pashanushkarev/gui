@@ -70,12 +70,12 @@ class Screen(QtWidgets.QMainWindow):
         self.imageContainer = RectanglePainter(self)
 
         self.loadImage = QPushButton(self)
-        self.loadImage.setText("Load image")
+        self.loadImage.setText("Загрузить")
         self.loadImage.setGeometry(QRect(10, 10, 130, 25))
         
         self.saveImage = QPushButton(self)
         self.saveImage.setGeometry(QRect(150, 10, 130, 25))
-        self.saveImage.setText("Save image")
+        self.saveImage.setText("Сохранить")
 
         self.loadImage.clicked.connect(self.load_image)
         self.saveImage.clicked.connect(self.save_image)
