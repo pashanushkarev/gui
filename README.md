@@ -12,7 +12,7 @@
 Приложение позволяет рисовать прямоугольники на картинках и сохранять их.
 
 
-![Image alt](https://github.com/pashanushkarev/gui/blob/main/pic/lab2.png)
+![Image alt](https://github.com/pashanushkarev/gui/blob/main/pic/Lab2.png)
 
 
 ## Лабараторная работа 3
